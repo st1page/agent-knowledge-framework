@@ -1,6 +1,6 @@
 # Agent 知识工程：让 AI Agent 像人一样学习、记忆和成长（公开版）
 
-> 通讯作者：[@tennyzhuang](https://github.com/tennyzhuang)
+> 通讯作者：[@tennyzhuang](https://github.com/tennyzhuang)，在过程中进行了大量的讨论，对本文的核心思路和方法有重要贡献。
 
 ## 引入：Agent 不是菜，他只是不知道
 
