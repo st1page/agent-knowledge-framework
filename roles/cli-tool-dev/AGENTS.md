@@ -38,6 +38,7 @@
 ### Experience（按需查阅，不常驻加载）
 
 - `experience/2026-03-08-textual-tui-first-practice.md` — textual 8.x TUI 开发首次实践：API 版本陷阱（ComposeResult/update_cell_at）、`gh run view --log` 输出格式解析（tab 分隔、按 job name 过滤）、headless 测试（run_test + pilot）、Collapsible 折叠/展开、单文件工具代码组织。
+- `experience/2026-03-08-textual-async-loading-cache.md` — textual TUI 性能优化：`@work(thread=True)` 异步加载（导入陷阱 `from textual import work`）、`call_from_thread` 回主线程、`exclusive=True` + `group` 请求防抖、`LoadingIndicator` 显示/隐藏模式、dict 缓存 + stale check 防竞态、headless 测试中轮询 `app.workers` 等 worker 完成。
 
 ### Questions（已知的未知）
 
